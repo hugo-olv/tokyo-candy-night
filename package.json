@@ -21,7 +21,7 @@
     "frameless"
   ],
   "engines": {
-    "vscode": "^1.66.0"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
