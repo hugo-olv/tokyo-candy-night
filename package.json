@@ -1,21 +1,38 @@
 {
-    "name": "tokyo-candy-night",
-    "displayName": "tokyo-candy-night",
-    "description": "VS Code Theme Extension, which is a merge between \"Tokyo Night Frameless - enkia\" for the app colors and \"Material Candy - Pierre-Antoine Urvoy\" for syntax highlighting",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.67.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Tokyo Candy Night",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Tokyo Candy Night-color-theme.json"
-            }
-        ]
-    }
+  "name": "tokyo-candy-night",
+  "displayName": "tokyo-candy-night",
+  "description": "VS Code Theme Extension, which is a merge between \"Tokyo Night Frameless - enkia\" for the app colors and \"Material Candy - Pierre-Antoine Urvoy\" for syntax highlighting",
+  "version": "1.0.0",
+  "publisher": "hugo-olv",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hugo-cdl/tokyo-candy-night"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "hugo-olv",
+    "hugo-cdl",
+    "hugo oliveira",
+    "tokyo-candy-night",
+    "candy",
+    "night",
+    "tokyo",
+    "frameless"
+  ],
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tokyo Candy Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tokyo Candy Night-color-theme.json"
+      }
+    ]
+  }
 }

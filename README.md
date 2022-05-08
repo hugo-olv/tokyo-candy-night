@@ -1,13 +1,10 @@
-# README
-## This is the README for your extension "tokyo-candy-night"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Tokyo Candy Night
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+![license MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Visual Studio Marketplace Version](https://marketplace.visualstudio.com/items?itemName=tokyo-candy-night)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+VS Code Theme Extension, which is a merge between "Tokyo Night Frameless - enkia" for the app colors and "Material Candy - Pierre-Antoine Urvoy" for syntax highlighting. A perfect balance between readabality, focus and an amazing night mood. Enjoy.
 
-**Enjoy!**
+## Screenshot
+
+![screenshot](https://i.ibb.co/TcFq78z/tokyo-candy-night.png)
